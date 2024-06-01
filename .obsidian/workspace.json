@@ -11,8 +11,12 @@
             "id": "30f96edc2fbc6a5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arch_LInux/install.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arch_LInux/install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arch_LInux/install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arch_LInux/install.md"
+              }
             }
           }
         ]
@@ -138,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30f96edc2fbc6a5a",
+  "active": "8d8c9aa8f1dc6db6",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Arch_install",
+    "Arch_LInux/Pasted image 20240601195200.png",
+    "Arch_LInux/Pasted image 20240601194814.png",
+    "Arch_LInux/install.md",
+    "Arch_LInux",
     "Bikram.md"
   ]
 }
