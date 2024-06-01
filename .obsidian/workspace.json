@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0bd244b6f9a2113",
@@ -146,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d8c9aa8f1dc6db6",
+  "active": "30f96edc2fbc6a5a",
   "lastOpenFiles": [
     "Arch_LInux/Pasted image 20240601195200.png",
     "Arch_LInux/Pasted image 20240601194814.png",
     "Arch_LInux/install.md",
+    "token.txt",
     "Arch_LInux",
     "Bikram.md"
   ]
