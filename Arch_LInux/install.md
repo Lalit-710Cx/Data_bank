@@ -40,3 +40,13 @@ $ sudo pacman-key --refresh-keys
 # Clear out the software packages downloaded during aborted installations (optional):
 sudo pacman -Sc
 ```
+
+## Set Fastest mirror:
+```shell
+sudo pacman -S rate-mirrors
+
+rate-mirrors --disable-comments-in-file --entry-country=IN --protocol=https arch --max-delay 7200 | sudo tee /etc/pacman.d/mirrorlist
+
+sudo pacman -Syu
+```
+
