@@ -1,7 +1,7 @@
 # Step-1:
 ping the google so you will getting the information that the ISO connect with internet or not.😅😅
 ## Wi-Fi:
-```sh
+```shell
 # ------------------------------
 # |             iwctl          |
 # ------------------------------

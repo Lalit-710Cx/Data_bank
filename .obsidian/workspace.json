@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0bd244b6f9a2113",
@@ -147,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30f96edc2fbc6a5a",
+  "active": "8d8c9aa8f1dc6db6",
   "lastOpenFiles": [
+    "Untitled",
     "Arch_LInux/Pasted image 20240601195200.png",
     "Arch_LInux/Pasted image 20240601194814.png",
     "Arch_LInux/install.md",
